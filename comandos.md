@@ -1,0 +1,21 @@
+# Comandos essenciais do macOS Terminal
+
+- `ls`: Lista os arquivos e diretórios em um diretório.
+- `cd`: Muda o diretório atual.
+- `clear`: Limpa a tela.
+- `cp`: Copia arquivos e diretórios.
+- `rm`: Remove arquivos ou diretórios.
+- `mv`: Move ou renomeia arquivos ou diretórios.
+- `mkdir`: Cria um diretório.
+- `rmdir`: Remove um diretório.
+- `echo`: Exibe uma linha de texto.
+- `exit`: Fecha o terminal.
+- `man`: Exibe o manual do usuário para qualquer comando.
+- `open`: Abre um arquivo ou URL no aplicativo padrão.
+- `shutdown`: Desliga ou reinicia o computador.
+- `ifconfig`: Exibe ou configura as interfaces de rede.
+- `top`: Exibe informações sobre os processos em execução no sistema.
+- `nano`, `vi`, `emacs`: Editores de texto no terminal.
+- `ping`: Envia pacotes ICMP ECHO_REQUEST para hosts de rede.
+- `whoami`: Exibe o nome de usuário efetivo.
+- `pwd`: Exibe o caminho do diretório de trabalho atual.
